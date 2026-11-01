@@ -11,27 +11,27 @@ STATUS
   HABIBI  :(STATUS)
 ddrpl       :word
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(DAH SIAP)
   HABIBI  :(STATUS)
 infor       :excel
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(BELUM SIAP)
   HABIBI  :(STATUS)
 b.mandarin  :Gambar
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(BELUM SIAP)
   HABIBI  :(STATUS)
 b.inggris   :ujian yang mengarah
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(BELUM SIAP / BELUM MAJU KE DEPAN)
   HABIBI  :(STATUS)
 matematika  :hapalan
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(BELUM SIAP)
   HABIBI  :(STATUS)
 pjok        :catatan di grup 
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(BELUM SIAP)
   HABIBI  :(STATUS)
 b.indo      :TIDAK ADA 
 STATUS
@@ -44,14 +44,14 @@ STATUS
 bp          :TIDAK ADA
 STATUS
   IZHAR   :(STATUS)
-  HABIBI  :
+  HABIBI  :(STATUS)
 sejarah     :kerkom  
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(DAH SIAP/TINGGAL MAJU)
   HABIBI  :(STATUS)
 sbd         :kerkom
 STATUS
-  IZHAR   :(STATUS)
+  IZHAR   :(BELUM SIAP/BELUM LATIHAN)
   HABIBI  :(STATUS)
 ipas        :catatan dan soal
 STATUS
